@@ -1,0 +1,12 @@
+﻿  circle.cpp
+  filewriter.cpp
+  Line.cpp
+  Manager.cpp
+  Point.cpp
+  Polygon.cpp
+  rectangle.cpp
+  SHAPEPlotter.cpp
+  square.cpp
+  triangle.cpp
+  Generating Code...
+  SHAPEPlotter.vcxproj -> C:\Users\Abhishek Suryawanshi\source\repos\SHAPEPlotter\x64\Debug\SHAPEPlotter.exe
