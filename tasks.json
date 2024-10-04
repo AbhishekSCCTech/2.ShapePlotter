@@ -1,0 +1,39 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe build active file",
+			"command": "C:\\msys64\\ucrt64\\bin\\g++.exe",
+			"args": [
+				"-std=c++17",
+				"-fdiagnostics-color=always",
+				"-g",
+				"-I","F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\include",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\circle.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\filewriter.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\Line.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\main.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\Manager.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\Point.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\Polygon.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\rectangle.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\square.cpp",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\triangle.cpp",
+				"-o",
+				"F:\\AbhishekSuryawanshiWorkspace\\Crafter3D\\output.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\msys64\\ucrt64\\bin\\g++.exe"
+		}
+	]
+}
