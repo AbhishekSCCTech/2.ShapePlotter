@@ -1,6 +1,3 @@
-# 2.ShapePlotter
----
-
 # SHAPEPlotter
 
 ## Project Description
