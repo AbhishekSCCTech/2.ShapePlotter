@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "manager.h"
+#include "Manager.h"
 
 int main()
 {

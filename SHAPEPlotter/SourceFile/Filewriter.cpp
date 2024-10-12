@@ -1,4 +1,4 @@
-#include "filewriter.h"
+#include "Filewriter.h"
 
 FileWriter::FileWriter(const std::string& filename) {
     file.open(filename);

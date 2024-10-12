@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Manager.h"
-#include "rectangle.h"
-#include "triangle.h"
+#include "Rectangle.h"
+#include "Triangle.h"
 #include "square.h"
 #include "circle.h"
 #include "Point.h"
