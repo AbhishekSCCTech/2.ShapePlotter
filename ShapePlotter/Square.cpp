@@ -1,4 +1,4 @@
-#include "square.h"
+#include "Square.h"
 
 Square::Square(double x, double y, double sideLength)
     : Rectangle(x, y, sideLength, sideLength) {}

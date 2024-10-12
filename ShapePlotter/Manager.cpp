@@ -1,9 +1,9 @@
 #include <iostream>
 #include "Manager.h"
-#include "rectangle.h"
-#include "triangle.h"
-#include "square.h"
-#include "circle.h"
+#include "Rectangle.h"
+#include "Triangle.h"
+#include "Square.h"
+#include "Circle.h"
 #include "Point.h"
 #include "Line.h"
 #include "Polygon.h"
